@@ -121,7 +121,7 @@ commute-time-analysis/
 │   └── cleaned/
 ├── powerbi-dashboard/
 ├── visuals/
-├── reports/
+├── reports/insights/
 └── README.md
 ```
 

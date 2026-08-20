@@ -42,7 +42,7 @@ This analysis answers the following questions:
 
 | Attribute | Description |
 |-----------|-------------|
-| Dataset | Lagos_Commute_Time_Cleaned.csv |
+| Dataset | Lagos_Commute_Time_Dataset_Cleaned.csv |
 | Records | 70,000 |
 | Period | 2022–2025 |
 | State | Lagos |
@@ -53,7 +53,7 @@ This analysis answers the following questions:
 
 | Tool | Purpose |
 |------|---------|
-| Microsoft Excel |
+| Microsoft Excel | Cleaning |
 | Power BI | Interactive Dashboard |
 | Git & GitHub | Version Control & Documentation |
 
@@ -76,6 +76,10 @@ This analysis answers the following questions:
 ### Power BI Dashboard
 
 ![Power BI Dashboard](visuals/commute-time-analysis-powerbi-dashboard-overview.jpg)
+
+![Power BI Dashboard](visuals/commute-time-analysis-powerbi-dashboard-traffic-congestion.jpg)
+
+![Power BI Dashboard](visuals/commute-time-analysis-powerbi-dashboard-operational-factor.jpg)
 
 ---
 
@@ -125,7 +129,7 @@ commute-time-analysis/
 
 ## ▶️ How to Reproduce
 
-1. Review the cleaned dataset in `data/cleaned/`.
+1. Review the cleaned dataset in `data/raw/`.
 2. Explore the Excel and Power BI dashboards.
 
 ---

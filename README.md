@@ -5,7 +5,7 @@
 
 > A commute time analytics project using **Microsoft Excel, and Power BI** to analyze commute time, traffic and congestion patterns, and operational factors affecting travel times for Lagos state corridor.
 
-![Dashboard Preview](visuals/commute-time-analysis-powerbi-dashboard-overview.png)
+![Dashboard Preview](visuals/commute-time-analysis-powerbi-dashboard-overviewo.png)
 
 ---
 
@@ -75,7 +75,7 @@ This analysis answers the following questions:
 
 ### Power BI Dashboard
 
-![Power BI Dashboard](visuals/commute-time-analysis-powerbi-dashboard-overview.png)
+![Power BI Dashboard](visuals/commute-time-analysis-powerbi-dashboard-overviewo.png)
 
 ![Power BI Dashboard](visuals/commute-time-analysis-powerbi-dashboard-traffic-congestion.png)
 
